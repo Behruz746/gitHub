@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  grid-gap: 40px;
+  background-color: rgb(15, 11, 36);
+}
+
+#p1 {
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+  font-family: "system-ui", sans-serif;
+}
+
+#canvas {
+  border: 1px solid #fff;
+  background-color: #202f3c;
+}/*# sourceMappingURL=style.css.map */
